@@ -1,0 +1,24 @@
+{
+  "name": "bearingonline",
+  "version": "1.0.0",
+  "description": "Persian request tracking dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RwinFu/BEARINGONLINE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RwinFu/BEARINGONLINE/issues"
+  },
+  "homepage": "https://github.com/RwinFu/BEARINGONLINE#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "multer": "^2.5.0"
+  }
+}
